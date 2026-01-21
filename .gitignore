@@ -1,0 +1,35 @@
+# Data files
+*.h5
+*.h5ad
+GSE*/
+results/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Office files
+*.docx
+*.xlsx
+~$*
+
+# Other
+投稿/
