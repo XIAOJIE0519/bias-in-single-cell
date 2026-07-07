@@ -1,0 +1,11 @@
+﻿celltype,study1,study2,network_similarity_correlation,n_top_genes,note
+CD8+ effector T cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+CD4+ memory T cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Non-classical monocytes,GSE173896,GSE227691,0.15069203101072076,300,Exploratory pseudobulk network similarity; not a primary claim.
+Vascular endothelial cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Activated T cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Myofibroblasts,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Club cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Alveolar type II cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Endothelial tip cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.
+Alveolar type I cells,GSE173896,GSE227691,,300,Exploratory pseudobulk network similarity; not a primary claim.

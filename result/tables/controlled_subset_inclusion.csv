@@ -1,0 +1,29 @@
+﻿study,sample_id,controlled_primary,composition_primary,analysis_set,exclusion_reason
+GSE132771,GSM3891620,False,False,diagnostic_only,Lineage-negative/collagen-cell enrichment affects composition.
+GSE132771,GSM3891621,False,False,diagnostic_only,Lineage-negative/collagen-cell enrichment affects composition.
+GSE132771,GSM3891622,False,False,diagnostic_only,Lineage-negative/collagen-cell enrichment affects composition.
+GSE132771,GSM3891623,False,False,diagnostic_only,Lineage-negative/collagen-cell enrichment affects composition.
+GSE132771,GSM3891624,False,False,diagnostic_only,Lineage-negative/collagen-cell enrichment affects composition.
+GSE132771,GSM3891625,False,False,diagnostic_only,Lineage-negative/collagen-cell enrichment affects composition.
+GSE159354,GSM4827167,False,False,diagnostic_only,FACS-sorted/enriched fractions; not unbiased whole-lung composition.
+GSE159354,GSM4827184,False,False,diagnostic_only,FACS-sorted/enriched fractions; not unbiased whole-lung composition.
+GSE159354,GSM4827185,False,False,diagnostic_only,FACS-sorted/enriched fractions; not unbiased whole-lung composition.
+GSE159354,GSM4827199,False,False,diagnostic_only,FACS-sorted/enriched fractions; not unbiased whole-lung composition.
+GSE159354,GSM4827200,False,False,diagnostic_only,FACS-sorted/enriched fractions; not unbiased whole-lung composition.
+GSE171524,GSM5226574,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE171524,GSM5226575,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE171524,GSM5226576,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE171524,GSM5226577,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE171524,GSM5226578,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE171524,GSM5226579,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE171524,GSM5226580,False,False,sensitivity_only,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE173896,GSM5282543,True,True,controlled_primary,
+GSE173896,GSM5282544,True,True,controlled_primary,
+GSE173896,GSM5282545,True,True,controlled_primary,
+GSE173896,GSM5282546,True,True,controlled_primary,
+GSE173896,GSM5282547,True,True,controlled_primary,
+GSE173896,GSM5282548,True,True,controlled_primary,
+GSE227691,GSM7105661,True,True,controlled_primary,
+GSE227691,GSM7105662,True,True,controlled_primary,
+GSE227691,GSM7105663,True,True,controlled_primary,
+GSE227691,GSM7105664,True,True,controlled_primary,

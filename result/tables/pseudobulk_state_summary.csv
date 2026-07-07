@@ -1,0 +1,19 @@
+﻿celltype,n_pseudobulk_samples,n_genes,pc1_study_eta_squared,kruskal_h_pc1,kruskal_p_pc1,note
+Activated T cells,10,30929,0.009964076312148688,2.9090909090909065,0.08808151166219037,controlled subset; donor/sample is statistical unit
+Alveolar macrophages,10,30929,0.9663294221676371,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit
+Alveolar type I cells,10,30929,0.7400202930491252,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit
+Alveolar type II cells,10,30929,0.603559111721475,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit
+Basophils,8,30929,0.998232454992873,4.0,0.04550026389635857,controlled subset; donor/sample is statistical unit
+CD4+ memory T cells,10,30929,0.9165650789733423,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit
+CD8+ effector T cells,10,30929,0.9518366314076364,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit
+Ciliated cells,9,30929,0.33350055123478994,3.8400000000000034,0.050043521248705126,controlled subset; donor/sample is statistical unit
+Classical monocytes,9,30929,0.03354639009491411,0.0,1.0,controlled subset; donor/sample is statistical unit
+Club cells,10,30929,0.3089985576809973,2.9090909090909065,0.08808151166219037,controlled subset; donor/sample is statistical unit
+Endothelial tip cells,10,30929,0.04577682438275093,2.2272727272727266,0.13559300126630158,controlled subset; donor/sample is statistical unit
+Mast cells,5,30929,0.15384328457297716,0.33333333333333215,0.5637028616507738,controlled subset; donor/sample is statistical unit
+Myofibroblasts,9,30929,0.7465001619330224,5.399999999999999,0.020136751550346346,controlled subset; donor/sample is statistical unit
+Neutrophils,8,30929,0.9479943830056109,4.0,0.04550026389635857,controlled subset; donor/sample is statistical unit
+Non-classical monocytes,10,30929,0.862177933864519,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit
+Pericytes,7,30929,0.9988017606537118,2.25,0.13361440253771584,controlled subset; donor/sample is statistical unit
+Plasma cells,10,30929,0.032656230884220164,2.9090909090909065,0.08808151166219037,controlled subset; donor/sample is statistical unit
+Vascular endothelial cells,10,30929,0.7658232755676748,6.545454545454547,0.010515245935858921,controlled subset; donor/sample is statistical unit

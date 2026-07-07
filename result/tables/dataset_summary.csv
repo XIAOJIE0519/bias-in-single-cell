@@ -1,0 +1,6 @@
+﻿study,samples,cells,median_cells,max_cells,nnz,file_mb,analysis_set,modality,protocol_class,controlled_primary,exclusion_reason
+GSE132771,6,34885,5667.5,10351,40516687,61.96059989929199,diagnostic_only,scRNA-seq,lineage_negative_enriched,False,Lineage-negative/collagen-cell enrichment affects composition.
+GSE159354,5,14921,3047.0,5025,11413019,18.877799034118652,diagnostic_only,scRNA-seq,FACS_enriched,False,FACS-sorted/enriched fractions; not unbiased whole-lung composition.
+GSE171524,7,36678,4789.0,7120,30981871,46.18434238433838,sensitivity_only,snRNA-seq,frozen_autopsy_single_nucleus,False,Frozen rapid-autopsy single-nucleus data; not comparable with whole-cell scRNA composition.
+GSE173896,6,28918,5153.0,8308,83295174,123.11983585357666,controlled_primary,scRNA-seq,whole_tissue_scRNA,True,
+GSE227691,4,15479,3761.0,6106,17408596,26.902188301086426,controlled_primary,scRNA-seq,whole_tissue_scRNA,True,

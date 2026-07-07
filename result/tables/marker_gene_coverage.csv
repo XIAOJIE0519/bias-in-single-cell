@@ -1,0 +1,88 @@
+﻿celltype,markers_total,markers_present
+Epithelial cells,111,111
+Alveolar type I cells,10,10
+Alveolar type II cells,14,14
+Basal cells,7,7
+Ciliated cells,18,18
+Club cells,4,4
+Epithelial-mesenchymal transition cells,3,3
+Goblet cells,8,8
+Ionocytes,3,3
+Mesothelial cells,5,5
+Neuroendocrine cells,11,11
+Immune cells,464,464
+B cells,67,67
+Follicular B cells,9,9
+Mature B cells,3,3
+Memory B cells,8,8
+Naive B cells,8,8
+Plasma cells,27,27
+Erythrocytes,16,16
+Granulocytes,26,26
+Basophils,4,4
+Eosinophils,4,4
+Neutrophils,16,16
+Mast cells,16,16
+Megakaryocytes,4,4
+Mononuclear phagocytes,176,176
+Conventional dendritic cells,48,48
+Conventional type 1 dendritic cells,13,13
+Conventional type 2 dendritic cells,22,22
+Mature dendritic cells,4,4
+Langerhans cells,4,4
+Macrophages,115,115
+Alveolar macrophages,9,9
+M1 macrophages,21,21
+M2 macrophages,21,21
+Monocytes,42,42
+Classical monocytes,11,11
+Intermediate monocytes,3,3
+Non-classical monocytes,6,6
+Natural killer cells,50,50
+Plasmacytoid dendritic cells,26,26
+Platelets,4,4
+T cells,170,170
+Activated T cells,8,8
+CD4+ effector memory T cells,3,3
+CD4+ exhausted T cells,5,5
+CD4+ memory T cells,3,3
+CD4+ naive T cells,5,5
+CD4+ tissue-resident memory T cells,3,3
+"CD4-positive, alpha-beta T cells",9,9
+CD8+ activated T cells,4,4
+CD8+ effector T cells,12,12
+CD8+ effector memory T cells,7,7
+CD8+ exhausted T cells,5,5
+CD8+ naive T cells,5,5
+CD8+ tissue-resident memory T cells,4,4
+"CD8-positive, alpha-beta T cells",26,26
+Central memory T cells,7,7
+Effector T cells,17,17
+Exhausted T cells,19,19
+Follicular helper T cells,11,11
+Gamma delta T cells,8,8
+Helper T cells,6,6
+Memory T cells,10,10
+Mucosal-associated invariant T cells,11,11
+NK T cells,17,17
+Naive T cells,11,11
+Regulatory T cells,29,29
+T-helper 1 cells,18,18
+T-helper 17 cells,15,15
+T-helper 2 cells,9,9
+Tissue-resident memory T cells,29,29
+Stem cells,104,104
+Mesenchymal stem cells,64,64
+Stromal cells,290,290
+Endothelial cells,107,107
+Arterial endothelial cells,10,10
+Capillary endothelial cells,7,7
+Endothelial tip cells,3,3
+Lymphatic endothelial cells,16,16
+Vascular endothelial cells,7,7
+Venous endothelial cells,7,7
+Fibroblasts,107,107
+Mural cells,59,59
+Pericytes,33,33
+Smooth muscle cells,33,33
+Myofibroblasts,23,23

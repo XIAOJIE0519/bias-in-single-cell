@@ -1,0 +1,211 @@
+﻿celltype,study1,study2,n_study1,n_study2,min_samples_per_study,status,genes_tested,significant_genes,up_in_study1,up_in_study2,method,fdr_cutoff,abs_log2fc_cutoff
+Activated T cells,GSE132771,GSE159354,2,1,2,skipped_low_samples,0,0,0,0,,,
+Activated T cells,GSE132771,GSE171524,2,5,2,tested,878,20,0,20,logCPM_Welch_ttest,0.05,0.5
+Activated T cells,GSE132771,GSE173896,2,6,2,tested,13086,7538,42,7496,logCPM_Welch_ttest,0.05,0.5
+Activated T cells,GSE132771,GSE227691,2,4,2,tested,8244,3312,16,3296,logCPM_Welch_ttest,0.05,0.5
+Activated T cells,GSE159354,GSE171524,1,5,2,skipped_low_samples,0,0,0,0,,,
+Activated T cells,GSE159354,GSE173896,1,6,2,skipped_low_samples,0,0,0,0,,,
+Activated T cells,GSE159354,GSE227691,1,4,2,skipped_low_samples,0,0,0,0,,,
+Activated T cells,GSE171524,GSE173896,5,6,2,tested,13110,5252,13,5239,logCPM_Welch_ttest,0.05,0.5
+Activated T cells,GSE171524,GSE227691,5,4,2,tested,8370,2065,29,2036,logCPM_Welch_ttest,0.05,0.5
+Activated T cells,GSE173896,GSE227691,6,4,2,tested,13657,10,9,1,logCPM_Welch_ttest,0.05,0.5
+Alveolar macrophages,GSE132771,GSE159354,6,1,2,skipped_low_samples,0,0,0,0,,,
+Alveolar macrophages,GSE132771,GSE171524,6,7,2,tested,17348,11515,2247,9268,logCPM_Welch_ttest,0.05,0.5
+Alveolar macrophages,GSE132771,GSE173896,6,6,2,tested,12947,2812,903,1909,logCPM_Welch_ttest,0.05,0.5
+Alveolar macrophages,GSE132771,GSE227691,6,4,2,tested,12046,4348,4307,41,logCPM_Welch_ttest,0.05,0.5
+Alveolar macrophages,GSE159354,GSE171524,1,7,2,skipped_low_samples,0,0,0,0,,,
+Alveolar macrophages,GSE159354,GSE173896,1,6,2,skipped_low_samples,0,0,0,0,,,
+Alveolar macrophages,GSE159354,GSE227691,1,4,2,skipped_low_samples,0,0,0,0,,,
+Alveolar macrophages,GSE171524,GSE173896,7,6,2,tested,16377,2999,2551,448,logCPM_Welch_ttest,0.05,0.5
+Alveolar macrophages,GSE171524,GSE227691,7,4,2,tested,15901,11250,11068,182,logCPM_Welch_ttest,0.05,0.5
+Alveolar macrophages,GSE173896,GSE227691,6,4,2,tested,8056,3075,2956,119,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE132771,GSE159354,6,4,2,tested,9446,383,380,3,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE132771,GSE171524,6,7,2,tested,15668,6833,2180,4653,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE132771,GSE173896,6,6,2,tested,14080,4818,1290,3528,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE132771,GSE227691,6,4,2,tested,9554,495,426,69,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE159354,GSE171524,4,7,2,tested,14727,5999,87,5912,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE159354,GSE173896,4,6,2,tested,13513,4949,58,4891,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE159354,GSE227691,4,4,2,tested,2479,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE171524,GSE173896,7,6,2,tested,16892,3380,1172,2208,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE171524,GSE227691,7,4,2,tested,14635,4387,4253,134,logCPM_Welch_ttest,0.05,0.5
+Alveolar type I cells,GSE173896,GSE227691,6,4,2,tested,13519,3663,3654,9,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE132771,GSE159354,6,5,2,tested,15075,8,2,6,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE132771,GSE171524,6,7,2,tested,18141,11269,3387,7882,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE132771,GSE173896,6,6,2,tested,18049,4672,1106,3566,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE132771,GSE227691,6,4,2,tested,13254,757,452,305,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE159354,GSE171524,5,7,2,tested,18502,9575,2697,6878,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE159354,GSE173896,5,6,2,tested,18371,2582,682,1900,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE159354,GSE227691,5,4,2,tested,13866,131,64,67,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE171524,GSE173896,7,6,2,tested,19976,7226,4275,2951,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE171524,GSE227691,7,4,2,tested,16360,4472,3656,816,logCPM_Welch_ttest,0.05,0.5
+Alveolar type II cells,GSE173896,GSE227691,6,4,2,tested,17228,428,402,26,logCPM_Welch_ttest,0.05,0.5
+Basophils,GSE132771,GSE159354,0,0,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE132771,GSE171524,0,7,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE132771,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE132771,GSE227691,0,2,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE159354,GSE171524,0,7,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE159354,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE159354,GSE227691,0,2,2,skipped_low_samples,0,0,0,0,,,
+Basophils,GSE171524,GSE173896,7,6,2,tested,14580,4556,1143,3413,logCPM_Welch_ttest,0.05,0.5
+Basophils,GSE171524,GSE227691,7,2,2,tested,6180,3339,3149,190,logCPM_Welch_ttest,0.05,0.5
+Basophils,GSE173896,GSE227691,6,2,2,tested,14009,10985,10879,106,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE132771,GSE159354,6,4,2,tested,11348,0,0,0,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE132771,GSE171524,6,7,2,tested,14010,4904,628,4276,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE132771,GSE173896,6,6,2,tested,20902,8045,89,7956,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE132771,GSE227691,6,4,2,tested,10397,11,1,10,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE159354,GSE171524,4,7,2,tested,13597,1765,321,1444,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE159354,GSE173896,4,6,2,tested,20899,3545,44,3501,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE159354,GSE227691,4,4,2,tested,8917,0,0,0,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE171524,GSE173896,7,6,2,tested,21290,8098,3621,4477,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE171524,GSE227691,7,4,2,tested,12023,2970,2454,516,logCPM_Welch_ttest,0.05,0.5
+CD4+ memory T cells,GSE173896,GSE227691,6,4,2,tested,20777,8168,8087,81,logCPM_Welch_ttest,0.05,0.5
+CD8+ effector T cells,GSE132771,GSE159354,4,4,2,tested,3239,0,0,0,logCPM_Welch_ttest,0.05,0.5
+CD8+ effector T cells,GSE132771,GSE171524,4,0,2,skipped_low_samples,0,0,0,0,,,
+CD8+ effector T cells,GSE132771,GSE173896,4,6,2,tested,18319,6698,49,6649,logCPM_Welch_ttest,0.05,0.5
+CD8+ effector T cells,GSE132771,GSE227691,4,4,2,tested,15728,3630,16,3614,logCPM_Welch_ttest,0.05,0.5
+CD8+ effector T cells,GSE159354,GSE171524,4,0,2,skipped_low_samples,0,0,0,0,,,
+CD8+ effector T cells,GSE159354,GSE173896,4,6,2,tested,18303,10165,129,10036,logCPM_Welch_ttest,0.05,0.5
+CD8+ effector T cells,GSE159354,GSE227691,4,4,2,tested,15704,7742,70,7672,logCPM_Welch_ttest,0.05,0.5
+CD8+ effector T cells,GSE171524,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+CD8+ effector T cells,GSE171524,GSE227691,0,4,2,skipped_low_samples,0,0,0,0,,,
+CD8+ effector T cells,GSE173896,GSE227691,6,4,2,tested,19606,4217,3513,704,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE132771,GSE159354,4,3,2,tested,3840,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE132771,GSE171524,4,6,2,tested,13920,628,445,183,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE132771,GSE173896,4,5,2,tested,11880,1126,121,1005,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE132771,GSE227691,4,4,2,tested,8865,1,0,1,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE159354,GSE171524,3,6,2,tested,13798,350,116,234,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE159354,GSE173896,3,5,2,tested,11841,1560,45,1515,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE159354,GSE227691,3,4,2,tested,8626,127,1,126,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE171524,GSE173896,6,5,2,tested,15537,1402,211,1191,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE171524,GSE227691,6,4,2,tested,14533,384,56,328,logCPM_Welch_ttest,0.05,0.5
+Ciliated cells,GSE173896,GSE227691,5,4,2,tested,12580,3,2,1,logCPM_Welch_ttest,0.05,0.5
+Classical monocytes,GSE132771,GSE159354,6,5,2,tested,14215,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Classical monocytes,GSE132771,GSE171524,6,1,2,skipped_low_samples,0,0,0,0,,,
+Classical monocytes,GSE132771,GSE173896,6,5,2,tested,13076,90,88,2,logCPM_Welch_ttest,0.05,0.5
+Classical monocytes,GSE132771,GSE227691,6,4,2,tested,13020,152,151,1,logCPM_Welch_ttest,0.05,0.5
+Classical monocytes,GSE159354,GSE171524,5,1,2,skipped_low_samples,0,0,0,0,,,
+Classical monocytes,GSE159354,GSE173896,5,5,2,tested,12148,340,338,2,logCPM_Welch_ttest,0.05,0.5
+Classical monocytes,GSE159354,GSE227691,5,4,2,tested,12070,453,446,7,logCPM_Welch_ttest,0.05,0.5
+Classical monocytes,GSE171524,GSE173896,1,5,2,skipped_low_samples,0,0,0,0,,,
+Classical monocytes,GSE171524,GSE227691,1,4,2,skipped_low_samples,0,0,0,0,,,
+Classical monocytes,GSE173896,GSE227691,5,4,2,tested,1309,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE132771,GSE159354,6,4,2,tested,9309,73,61,12,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE132771,GSE171524,6,7,2,tested,14155,4457,1744,2713,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE132771,GSE173896,6,6,2,tested,19332,1280,212,1068,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE132771,GSE227691,6,4,2,tested,12140,847,70,777,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE159354,GSE171524,4,7,2,tested,12956,1864,806,1058,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE159354,GSE173896,4,6,2,tested,18990,538,68,470,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE159354,GSE227691,4,4,2,tested,11100,320,18,302,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE171524,GSE173896,7,6,2,tested,20040,995,291,704,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE171524,GSE227691,7,4,2,tested,14446,2740,1252,1488,logCPM_Welch_ttest,0.05,0.5
+Club cells,GSE173896,GSE227691,6,4,2,tested,19385,1,1,0,logCPM_Welch_ttest,0.05,0.5
+Endothelial tip cells,GSE132771,GSE159354,4,4,2,tested,2811,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Endothelial tip cells,GSE132771,GSE171524,4,0,2,skipped_low_samples,0,0,0,0,,,
+Endothelial tip cells,GSE132771,GSE173896,4,6,2,tested,12606,3078,67,3011,logCPM_Welch_ttest,0.05,0.5
+Endothelial tip cells,GSE132771,GSE227691,4,4,2,tested,8863,1402,56,1346,logCPM_Welch_ttest,0.05,0.5
+Endothelial tip cells,GSE159354,GSE171524,4,0,2,skipped_low_samples,0,0,0,0,,,
+Endothelial tip cells,GSE159354,GSE173896,4,6,2,tested,12661,2974,28,2946,logCPM_Welch_ttest,0.05,0.5
+Endothelial tip cells,GSE159354,GSE227691,4,4,2,tested,8905,1314,11,1303,logCPM_Welch_ttest,0.05,0.5
+Endothelial tip cells,GSE171524,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Endothelial tip cells,GSE171524,GSE227691,0,4,2,skipped_low_samples,0,0,0,0,,,
+Endothelial tip cells,GSE173896,GSE227691,6,4,2,tested,13235,54,30,24,logCPM_Welch_ttest,0.05,0.5
+Follicular B cells,GSE132771,GSE159354,0,0,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE132771,GSE171524,0,7,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE132771,GSE173896,0,1,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE132771,GSE227691,0,1,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE159354,GSE171524,0,7,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE159354,GSE173896,0,1,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE159354,GSE227691,0,1,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE171524,GSE173896,7,1,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE171524,GSE227691,7,1,2,skipped_low_samples,0,0,0,0,,,
+Follicular B cells,GSE173896,GSE227691,1,1,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE132771,GSE159354,0,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE132771,GSE171524,0,3,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE132771,GSE173896,0,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE132771,GSE227691,0,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE159354,GSE171524,0,3,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE159354,GSE173896,0,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE159354,GSE227691,0,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE171524,GSE173896,3,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE171524,GSE227691,3,0,2,skipped_low_samples,0,0,0,0,,,
+Goblet cells,GSE173896,GSE227691,0,0,2,skipped_low_samples,0,0,0,0,,,
+Mast cells,GSE132771,GSE159354,5,5,2,tested,5466,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Mast cells,GSE132771,GSE171524,5,0,2,skipped_low_samples,0,0,0,0,,,
+Mast cells,GSE132771,GSE173896,5,3,2,tested,4270,1,1,0,logCPM_Welch_ttest,0.05,0.5
+Mast cells,GSE132771,GSE227691,5,2,2,tested,4181,112,112,0,logCPM_Welch_ttest,0.05,0.5
+Mast cells,GSE159354,GSE171524,5,0,2,skipped_low_samples,0,0,0,0,,,
+Mast cells,GSE159354,GSE173896,5,3,2,tested,2591,134,134,0,logCPM_Welch_ttest,0.05,0.5
+Mast cells,GSE159354,GSE227691,5,2,2,tested,2500,339,326,13,logCPM_Welch_ttest,0.05,0.5
+Mast cells,GSE171524,GSE173896,0,3,2,skipped_low_samples,0,0,0,0,,,
+Mast cells,GSE171524,GSE227691,0,2,2,skipped_low_samples,0,0,0,0,,,
+Mast cells,GSE173896,GSE227691,3,2,2,tested,210,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE132771,GSE159354,6,5,2,tested,15078,482,478,4,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE132771,GSE171524,6,7,2,tested,18766,11395,3435,7960,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE132771,GSE173896,6,6,2,tested,18855,4596,806,3790,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE132771,GSE227691,6,3,2,tested,14939,2704,2648,56,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE159354,GSE171524,5,7,2,tested,16546,7883,319,7564,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE159354,GSE173896,5,6,2,tested,17521,5668,88,5580,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE159354,GSE227691,5,3,2,tested,6997,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE171524,GSE173896,7,6,2,tested,19786,4303,2064,2239,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE171524,GSE227691,7,3,2,tested,15916,6507,6144,363,logCPM_Welch_ttest,0.05,0.5
+Myofibroblasts,GSE173896,GSE227691,6,3,2,tested,17381,6247,6151,96,logCPM_Welch_ttest,0.05,0.5
+Neutrophils,GSE132771,GSE159354,0,1,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE132771,GSE171524,0,0,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE132771,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE132771,GSE227691,0,2,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE159354,GSE171524,1,0,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE159354,GSE173896,1,6,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE159354,GSE227691,1,2,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE171524,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE171524,GSE227691,0,2,2,skipped_low_samples,0,0,0,0,,,
+Neutrophils,GSE173896,GSE227691,6,2,2,tested,6114,2500,2475,25,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE132771,GSE159354,4,5,2,tested,10443,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE132771,GSE171524,4,3,2,tested,1341,187,166,21,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE132771,GSE173896,4,6,2,tested,20818,10969,285,10684,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE132771,GSE227691,4,4,2,tested,14101,6169,154,6015,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE159354,GSE171524,5,3,2,tested,10471,65,61,4,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE159354,GSE173896,5,6,2,tested,20994,6617,125,6492,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE159354,GSE227691,5,4,2,tested,14918,1519,23,1496,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE171524,GSE173896,3,6,2,tested,20820,11627,31,11596,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE171524,GSE227691,3,4,2,tested,14107,7251,50,7201,logCPM_Welch_ttest,0.05,0.5
+Non-classical monocytes,GSE173896,GSE227691,6,4,2,tested,21176,3944,3388,556,logCPM_Welch_ttest,0.05,0.5
+Pericytes,GSE132771,GSE159354,0,0,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE132771,GSE171524,0,2,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE132771,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE132771,GSE227691,0,1,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE159354,GSE171524,0,2,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE159354,GSE173896,0,6,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE159354,GSE227691,0,1,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE171524,GSE173896,2,6,2,tested,13189,10399,50,10349,logCPM_Welch_ttest,0.05,0.5
+Pericytes,GSE171524,GSE227691,2,1,2,skipped_low_samples,0,0,0,0,,,
+Pericytes,GSE173896,GSE227691,6,1,2,skipped_low_samples,0,0,0,0,,,
+Plasma cells,GSE132771,GSE159354,5,5,2,tested,7429,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE132771,GSE171524,5,6,2,tested,9338,2315,73,2242,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE132771,GSE173896,5,6,2,tested,11588,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE132771,GSE227691,5,4,2,tested,4903,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE159354,GSE171524,5,6,2,tested,10164,3649,904,2745,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE159354,GSE173896,5,6,2,tested,11950,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE159354,GSE227691,5,4,2,tested,6351,212,168,44,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE171524,GSE173896,6,6,2,tested,12602,694,612,82,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE171524,GSE227691,6,4,2,tested,7752,1059,830,229,logCPM_Welch_ttest,0.05,0.5
+Plasma cells,GSE173896,GSE227691,6,4,2,tested,11261,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Smooth muscle cells,GSE132771,GSE159354,6,4,2,tested,13674,6224,6215,9,logCPM_Welch_ttest,0.05,0.5
+Smooth muscle cells,GSE132771,GSE171524,6,0,2,skipped_low_samples,0,0,0,0,,,
+Smooth muscle cells,GSE132771,GSE173896,6,5,2,tested,13702,2987,2870,117,logCPM_Welch_ttest,0.05,0.5
+Smooth muscle cells,GSE132771,GSE227691,6,0,2,skipped_low_samples,0,0,0,0,,,
+Smooth muscle cells,GSE159354,GSE171524,4,0,2,skipped_low_samples,0,0,0,0,,,
+Smooth muscle cells,GSE159354,GSE173896,4,5,2,tested,1870,31,2,29,logCPM_Welch_ttest,0.05,0.5
+Smooth muscle cells,GSE159354,GSE227691,4,0,2,skipped_low_samples,0,0,0,0,,,
+Smooth muscle cells,GSE171524,GSE173896,0,5,2,skipped_low_samples,0,0,0,0,,,
+Smooth muscle cells,GSE171524,GSE227691,0,0,2,skipped_low_samples,0,0,0,0,,,
+Smooth muscle cells,GSE173896,GSE227691,5,0,2,skipped_low_samples,0,0,0,0,,,
+Vascular endothelial cells,GSE132771,GSE159354,6,4,2,tested,15341,810,801,9,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE132771,GSE171524,6,7,2,tested,17649,8281,2730,5551,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE132771,GSE173896,6,6,2,tested,21060,8841,1945,6896,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE132771,GSE227691,6,4,2,tested,15355,1059,1057,2,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE159354,GSE171524,4,7,2,tested,13609,5136,336,4800,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE159354,GSE173896,4,6,2,tested,19984,8593,147,8446,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE159354,GSE227691,4,4,2,tested,3189,0,0,0,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE171524,GSE173896,7,6,2,tested,20832,5961,2601,3360,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE171524,GSE227691,7,4,2,tested,13475,4615,4555,60,logCPM_Welch_ttest,0.05,0.5
+Vascular endothelial cells,GSE173896,GSE227691,6,4,2,tested,19974,8853,8818,35,logCPM_Welch_ttest,0.05,0.5

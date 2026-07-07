@@ -1,0 +1,2 @@
+﻿method,n_cells_used,batch_asw_lower_is_better,celltype_asw_higher_is_better,iLISI_study_higher_is_better,cLISI_celltype_lower_is_better,graph_connectivity_celltype_higher_is_better
+scvi,30000,-0.018683552742004395,0.104000523686409,1.2570858344891822,1.1660164435129428,0.9822212512301767

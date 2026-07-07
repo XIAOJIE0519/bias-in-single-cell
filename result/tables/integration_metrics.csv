@@ -1,0 +1,3 @@
+﻿method,n_cells_used,batch_asw_lower_is_better,celltype_asw_higher_is_better,iLISI_study_higher_is_better,cLISI_celltype_lower_is_better,graph_connectivity_celltype_higher_is_better
+unintegrated,30000,0.12505361437797546,0.04975235462188721,1.079270293662108,1.0799421881358986,0.9754803110139563
+harmony,30000,0.05854684135533653,0.05175016433265173,1.390279177494774,1.210170126383621,0.9798216208927376
