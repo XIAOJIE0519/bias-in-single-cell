@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-06-24T23:51:33",
+  "root_dir": "E:\\lsj6.23\\1",
+  "result_dir": "E:\\lsj6.23\\1\\result",
+  "controlled_primary": [
+    "GSE173896",
+    "GSE227691"
+  ],
+  "qc_params": {
+    "min_genes": 200,
+    "max_genes": 6000,
+    "min_counts": 500,
+    "max_mito_pct": 20.0,
+    "min_cells_per_gene": 3
+  },
+  "processing_params": {
+    "n_top_genes": 3000,
+    "n_pcs": 50,
+    "n_neighbors": 15,
+    "leiden_resolution": 0.8,
+    "random_seed": 42,
+    "metrics_max_cells": 30000,
+    "pseudobulk_top_genes": 2000,
+    "network_top_genes": 300
+  },
+  "metadata_limitation": "No local age/sex/smoking covariate table was available; models are unadjusted unless explicitly stated."
+}

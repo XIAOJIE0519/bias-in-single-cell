@@ -1,0 +1,12 @@
+{
+  "n_samples": 28,
+  "n_cells_raw": 130881,
+  "n_genes_unique": [
+    33538
+  ],
+  "controlled_datasets": [
+    "GSE173896",
+    "GSE227691"
+  ],
+  "note": "Age, sex, smoking and donor-level clinical covariates were not present in local input files."
+}
