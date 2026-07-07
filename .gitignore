@@ -1,35 +1,20 @@
-# Data files
-*.h5
-*.h5ad
-GSE*/
-results/
-data/
-
-# Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-*.egg-info/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
+.ipynb_checkpoints/
 .DS_Store
-Thumbs.db
 
-# Office files
-*.docx
-*.xlsx
-~$*
+# Raw GEO matrices are not included in the repository.
+GSE*/
+*.h5
+*.h5ad
+*.loom
 
-# Other
-投稿/
+# Large/intermediate run cache.
+result/cache/
+result/logs/
+
+# Local environments.
+.venv/
+venv/
+env/
+
